@@ -7,6 +7,7 @@ int main(){
 	printf("second commit!\n");
 	printf("cdcd");
 	printf("second commit!\n");
+	printf("third commit!\n");
 	getchar();
 	return 0;
 }
